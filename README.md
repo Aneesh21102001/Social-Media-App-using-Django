@@ -1,6 +1,6 @@
 # Social-Media-App-using-Django
 
-This is a social media app built with Django. It allows users to create posts, comment on posts, like posts, send messages to other users, and receive notifications.
+This is a social media app built with Django. It allows users to create posts, and like posts.
 
 Features
 1. User authentication: Users can register, login, and logout.
